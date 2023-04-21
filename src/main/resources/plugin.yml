@@ -1,0 +1,6 @@
+name: TerritorialWars
+version: '${project.version}'
+main: io.github.mineplus.territorialwars.TerritorialWars
+api-version: 1.19
+authors: [pessiuff]
+description: Custom game mode where you create a faction, claim a land and protect it at the cost of your life.
